@@ -2,6 +2,8 @@
   <img src="assets/spirit-ink-banner.png" alt="Spirit Ink" width="100%">
 </a>
 
+**English** · [Italiano](README.it.md)
+
 # Spirit Ink automation case study
 
 Spirit Ink is an e-commerce automation project for custom-printed school clothing.
